@@ -1,0 +1,10 @@
+/read.md
+/description.md
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local configuration file
+.vscode/
